@@ -20,9 +20,9 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Muhammadyusuf, a website developer with a passion for
+            Hi there! I'm Iskandar, a website developer with a passion for
             creating custom online experiences for my clients. With a skill set
-            including HTML, CSS, JavaScript, and React, I have the tools to
+            including HTML, CSS, JavaScript, and React or Next, I have the tools to
             bring any website vision to life.
           </p>
         </ScrollAnimation>
@@ -42,11 +42,6 @@ export function About() {
           <h3>Here are my main skills:</h3>
         </ScrollAnimation>
         <div className="hard-skills">
-          <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.1 * 1000}>
-              <img src={reduxIcon} alt="Wordpress" />
-            </ScrollAnimation>
-          </div>
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.12 * 1000}>
               <img src={sassIcon} alt="shopify" />

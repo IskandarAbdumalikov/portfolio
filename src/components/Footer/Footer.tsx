@@ -10,9 +10,9 @@ import instagramIcon from "../../assets/instagram.svg";
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://github.com/Muhammadyusufdevloper" className="logo">
-        <span>muhammadyusuf</span>
-        <span>_dev</span>
+      <a target="_blank" href="https://github.com/IskandarAbdumalikov" className="logo">
+        <span>Abdumalikov </span>
+        <span>Iskandar</span>
       </a>
       <div>
         <p>
@@ -22,28 +22,28 @@ export function Footer() {
       </div>
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/muhammadyusuf-gulomov-989191316/"
+          href="https://www.linkedin.com/in/iskandar-abdumalikov-7292832b6/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/Muhammadyusufdevloper"
+          href="https://github.com/IskandarAbdumalikov"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://t.me/muhammadyusufdeveloper"
+          href="https://t.me/Abdumalikov_Iskandar"
           target="_blank"
           rel="noreferrer"
         >
           <img src={telegram} alt="telegram" />
         </a>
         <a
-          href="https://www.instagram.com/muhammadyusufdevloper/"
+          href="https://www.instagram.com/cristiano_uzb.fan/"
           target="_blank"
           rel="noreferrer"
         >

@@ -43,14 +43,14 @@ export function Hero() {
               <img src={linkedin} alt="Linkedin" />
             </a>
             <a
-              href="https://github.com/Muhammadyusufdevloper"
+              href="https://www.linkedin.com/in/iskandar-abdumalikov-7292832b6/"
               target="_blank"
               rel="noreferrer"
             >
               <img src={githubIcon} alt="GitHub" />
             </a>
             <a
-              href="https://t.me/muhammadyusufdeveloper"
+              href="https://t.me/Abdumalikov_Iskandar"
               target="_blank"
               rel="noreferrer"
             >

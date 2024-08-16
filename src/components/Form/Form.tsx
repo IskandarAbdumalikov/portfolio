@@ -3,8 +3,8 @@ import { toast, ToastContainer } from "react-toastify";
 import { useState } from "react";
 import validator from "validator";
 
-const BOT_TOKEN = "7296011111:AAH9fsPtqvBOqekhvlcG9MVl4JBifgNtEJk";
-const CHAT_ID = "-1002221404265";
+const BOT_TOKEN = "7177289161:AAHsDSL97FVQ4fn-YiMr9oWa9udUems4nvU";
+const CHAT_ID = "-1002195368941";
 
 export function Form() {
   const [validEmail, setValidEmail] = useState(false);

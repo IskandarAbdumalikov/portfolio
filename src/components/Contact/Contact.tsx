@@ -12,13 +12,23 @@ export function Contact() {
         <p>Contact me now for a Free consultation.</p>
       </header>
       <div className="contacts">
-        <a className="contact__item" href="mailto:muhammadyusufwork1@gmail.com">
+        <a
+          className="contact__item"
+          href="mailto:abdumalikoviskandar600@gmail.com"
+        >
           <img src={emailIcon} alt="Email" />
-          <p>Email.com</p>
+          <a
+            style={{ color: "black" }}
+            href="mailto:abdumalikoviskandar600@gmail.com"
+          >
+            My email
+          </a>
         </a>
-        <a className="contact__item" href="tel:+998930383347">
+        <a className="contact__item" href="tel:+998882784041">
           <img src={phoneIcon} alt="Phone No" />
-          <p>Phone</p>
+          <a style={{ color: "black" }} href="tel:+998882784041">
+            Phone
+          </a>
         </a>
       </div>
       <Form></Form>
