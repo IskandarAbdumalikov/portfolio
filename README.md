@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Singh
+# Portfolio of Abdumalikov Iskandar
 
 This project was created with CRA (Create React App)
 
