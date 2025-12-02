@@ -36,21 +36,21 @@ export function Hero() {
         <ScrollAnimation animateIn="fadeInUp" delay={1 * 1000}>
           <div className="social-media">
             <a
-              href="https://www.linkedin.com/in/muhammadyusuf-gulomov-989191316/"
+              href="https://www.linkedin.com/in/iskandar-abdumalikov-7292832b6/"
               target="_blank"
               rel="noreferrer"
             >
               <img src={linkedin} alt="Linkedin" />
             </a>
             <a
-              href="https://www.linkedin.com/in/iskandar-abdumalikov-7292832b6/"
+              href="https://github.com/IskandarAbdumalikov"
               target="_blank"
               rel="noreferrer"
             >
               <img src={githubIcon} alt="GitHub" />
             </a>
             <a
-              href="https://t.me/Abdumalikov_Iskandar"
+              href="https://t.me/iskandarabdumalikov"
               target="_blank"
               rel="noreferrer"
             >
